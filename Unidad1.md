@@ -27,7 +27,6 @@ Al finalizar esta unidad, el estudiante será capaz de:
 📂 [**Actividades del EVA**](https://drive.google.com/drive/folders/18RMv6LhEWZ5VhnlePUVpWW-bmKTvGSbW?usp=sharing)  
 > Carpeta con actividades asignadas en el entorno virtual de aprendizaje.
 
-![Uploading image.png…]()
 ✉️ [Biografia](./biografía.md)
 >Biografias utilizadas
 ---
