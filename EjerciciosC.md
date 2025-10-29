@@ -24,6 +24,6 @@ Ejercicios
 ---
 ### 🔙 Navegación
 
-[⬅️ Atras](./EjercicioDePractica.md)
+[⬅️ Atras](./EjerciciosDePractica.md)
 
 [⬅️ Regresar al índice](./index.md)
