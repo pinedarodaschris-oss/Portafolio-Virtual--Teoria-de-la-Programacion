@@ -22,4 +22,6 @@ Ejercicios
 ---
 [Practica 11](./EjercicioAPC2.c)
 ---
-[Regresar al index](./index.md)
+####[Atras](./EjerciciosDePractica.md)
+
+####[Regresar al index](./index.md)
