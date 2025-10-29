@@ -28,6 +28,9 @@
 ---
 [Practica 15](./EjercicioAPC2.psc)
 ---
-[Atras](./EjerciciosDePractica.md)
+### 🔙 Navegación
 
-[Regresar al index](./index.md)
+[⬅️ Atras](./EjerciciosDePractica.md)
+
+[⬅️ Regresar al índice](./index.md)
+
