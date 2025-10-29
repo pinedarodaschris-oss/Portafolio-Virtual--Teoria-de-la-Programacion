@@ -14,12 +14,6 @@
 ---
 [Ejercicios de Practica](./EjerciciosDePractica.md)
 ---
-[Aprendizaje en contacto con el docente ](./ACD.md)
----
-[Aprendizaje practico - Experimental](./APE.md)
----
-[Aprendizaje Autonomo](./AA.md)
----
-[Material de apoyo](./MA.md)
+[Actividades del Eva](https://drive.google.com/drive/folders/18RMv6LhEWZ5VhnlePUVpWW-bmKTvGSbW?usp=sharing)
 ---
 [Regresar al index](./index.md)
