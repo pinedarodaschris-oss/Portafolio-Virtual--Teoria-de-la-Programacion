@@ -1,5 +1,5 @@
 # Que son los Lenguajes de programacion?
-#### hola
+#### Son
 
 
 ## Ejercicios de codigo
