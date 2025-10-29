@@ -22,6 +22,8 @@ Ejercicios
 ---
 [Practica 11](./EjercicioAPC2.c)
 ---
-[Atras](./EjerciciosDePractica.md)
+### 🔙 Navegación
 
-[Regresar al index](./index.md)
+[⬅️ Atras](./EjercicioDePractica.md)
+
+[⬅️ Regresar al índice](./index.md)
