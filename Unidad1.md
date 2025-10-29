@@ -1,19 +1,34 @@
-# Unidad 1
-### Unidad 1: Fundamentos de Algoritmo y Programacion
+# 🧩 Unidad 1  
+## 💡 Fundamentos de Algoritmo y Programación  
 
-#### Se espera aprender de esta unidad a que los estudiantes aprendan conceptos basicos de la teoria de la programacion
-#### Como seria:
-#### -Definicion de los conceptos fundamentales de Algoritmos
-#### -Elementos básicos de algoritmos y programas
-#### -Herramientas para programación
-#### -Programación en lenguajes de alto nivel
-#### -Los tipos de datos
-#### -Como realizar Diagramas de flujo
-#### -El uso de las librerias
+> En esta unidad se busca que los estudiantes comprendan los **principios esenciales de la teoría de la programación**, el pensamiento lógico y el proceso de creación de algoritmos eficientes.
 
 ---
-[Ejercicios de Practica](./EjerciciosDePractica.md)
+
+### 🎯 Objetivos de Aprendizaje
+
+Al finalizar esta unidad, el estudiante será capaz de:
+
+- 📘 **Definir** los conceptos fundamentales de los algoritmos.  
+- ⚙️ **Reconocer** los elementos básicos de los algoritmos y los programas.  
+- 🧰 **Identificar** las herramientas necesarias para la programación.  
+- 💻 **Aplicar** los fundamentos de la programación en lenguajes de alto nivel.  
+- 🔢 **Distinguir** los diferentes tipos de datos.  
+- 🧮 **Elaborar** diagramas de flujo para representar procesos lógicos.  
+- 📚 **Utilizar** bibliotecas y librerías en programas básicos.
+
 ---
-[Actividades del Eva](https://drive.google.com/drive/folders/18RMv6LhEWZ5VhnlePUVpWW-bmKTvGSbW?usp=sharing)
+
+### 🧠 Recursos de Aprendizaje
+
+📘 [**Ejercicios de Práctica**](./EjerciciosDePractica.md)  
+> Archivos y programas en C para reforzar los temas de la unidad.
+
+📂 [**Actividades del EVA**](https://drive.google.com/drive/folders/18RMv6LhEWZ5VhnlePUVpWW-bmKTvGSbW?usp=sharing)  
+> Carpeta con actividades asignadas en el entorno virtual de aprendizaje.
+
 ---
-[Regresar al index](./index.md)
+
+### 🔙 Navegación
+
+[⬅️ Regresar al índice](./index.md)
