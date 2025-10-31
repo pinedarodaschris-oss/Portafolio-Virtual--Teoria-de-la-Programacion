@@ -1,4 +1,4 @@
-[Practica 1](./Suma_de_dos_digitos.psc)
+[Practica 1](./ActividadesEnPSeInt/Suma_de_dos_digitos.psc)
 ---
 [Practica 2](./A_LC_Triangulo.psc)
 ---
