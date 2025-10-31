@@ -1,6 +1,6 @@
-Ejercicios
+# Ejercicios
 
-[Practica 1](./miPrimerPrograma.c)
+[Practica 1](./Actividades en C/miPrimerPrograma.c)
 ---
 [Practica 2](./segundoPrograma.c)
 ---
