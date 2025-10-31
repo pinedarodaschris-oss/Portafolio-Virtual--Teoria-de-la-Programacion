@@ -1,1 +1,0 @@
-CarpetaEjerciciosC/archivo.txt
