@@ -85,4 +85,4 @@ La imagen ilustra cómo se pueden combinar bloques con información visual y atr
 
 [⬅️ Atras](./EjerciciosDePractica.md)
 
-[⬅️ Regresar al índice](./index.md)
+[⬅️ Regresar al índice](./Indice.md)
