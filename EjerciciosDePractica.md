@@ -40,6 +40,8 @@
 ---
 [Ejercicios de codigo C](./EjerciciosC.md)
 ---
+[Programacion por bloque](./ProgramacionBloque.md)
+---
 ### 🔙 Navegación
 
 [⬅️ Regresar a la Unidad 1](./Unidad1.md)
