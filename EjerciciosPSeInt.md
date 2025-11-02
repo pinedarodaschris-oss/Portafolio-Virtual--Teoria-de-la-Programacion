@@ -254,5 +254,5 @@ Salida: Mostrar la nota mínima requerida o advertir si es inválida (>100).
 
 [⬅️ Atras](./EjerciciosDePractica.md)
 
-[⬅️ Regresar al índice](./index.md)
+[⬅️ Regresar al índice](./Indice.md)
 
