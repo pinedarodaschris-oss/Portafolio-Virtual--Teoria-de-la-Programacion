@@ -21,6 +21,6 @@ esenciales para abordar problemas de programación más complejos en unidades po
 ---
 ### 🔙 Navegación
 
-[⬅️ Atras](./EjerciciosDePractica.md)
+[⬅️ Atras](./Unidad1.md)
 
 [⬅️ Regresar al índice](./index.md)
