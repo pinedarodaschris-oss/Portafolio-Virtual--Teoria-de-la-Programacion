@@ -39,4 +39,4 @@ Al finalizar esta unidad, el estudiante será capaz de:
 
 ### 🔙 Navegación
 
-[⬅️ Regresar al índice](./index.md)
+[⬅️ Regresar al índice](./Indice.md)
