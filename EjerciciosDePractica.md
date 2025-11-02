@@ -46,4 +46,4 @@
 
 [⬅️ Regresar a la Unidad 1](./Unidad1.md)
 
-[⬅️ Regresar al índice](./index.md)
+[⬅️ Regresar al índice](./Indice.md)
