@@ -23,4 +23,4 @@ esenciales para abordar problemas de programación más complejos en unidades po
 
 [⬅️ Atras](./Unidad1.md)
 
-[⬅️ Regresar al índice](./index.md)
+[⬅️ Regresar al índice](./Indice.md)
