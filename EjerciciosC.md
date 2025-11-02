@@ -162,4 +162,4 @@
 
 [⬅️ Atras](./EjerciciosDePractica.md)
 
-[⬅️ Regresar al índice](./index.md)
+[⬅️ Regresar al índice](./Indice.md)
