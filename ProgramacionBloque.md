@@ -80,3 +80,9 @@ La imagen ilustra cómo se pueden combinar bloques con información visual y atr
 
 <img width="1122" height="663" alt="image" src="https://github.com/user-attachments/assets/423bc486-7c96-431a-85fe-031e0d064cf6" />
 
+---
+### 🔙 Navegación
+
+[⬅️ Atras](./EjerciciosDePractica.md)
+
+[⬅️ Regresar al índice](./index.md)
