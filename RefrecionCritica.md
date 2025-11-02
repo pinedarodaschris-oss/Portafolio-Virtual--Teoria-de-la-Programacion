@@ -16,4 +16,11 @@ apreciando la eficiencia y control que ofrece sobre los recursos del sistema.
 
 > En conclusión, esta unidad no solo proporcionó conocimientos técnicos, sino que también fomentó **habilidades de pensamiento crítico y lógico**, 
 esenciales para abordar problemas de programación más complejos en unidades posteriores. La comprensión y práctica de estos fundamentos servirán como 
-**pilar para el desarrollo de proyectos más elaborados**, facilitando un aprendizaje continuo y autónomo en la disciplina.
+**pilar para el desarrollo de proyectos más elaborados**, facilitando un aprendizaje continuo y autónomo en la disciplina.\
+
+---
+### 🔙 Navegación
+
+[⬅️ Atras](./EjerciciosDePractica.md)
+
+[⬅️ Regresar al índice](./index.md)
