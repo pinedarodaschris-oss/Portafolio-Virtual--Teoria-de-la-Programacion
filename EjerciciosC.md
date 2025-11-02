@@ -2,7 +2,7 @@
 ---
 ## Ejercicio 1
 
-> Entrada: Variables de diferentes tipos: enteros, caracteres, cadenas y constantes.  
+> Entrada: Se probaran los tipos de datos que se pueden usar en C.  
 > Proceso: Inicialización de variables y definición de constantes.  
 > Salida: Mensajes por pantalla y valores almacenados en variables (ej. printf). 
  
@@ -16,8 +16,8 @@
 ## Ejercicio 2
 
 > Entrada: Impresión de mensaje.   
-> Proceso: Ejecuta un printf("Hola mundo").  
-> Salida: Muestra el mensaje "Hola mundo".
+> Proceso: Ejecuta un printf("Hola mundo").   
+> Salida: Muestra el mensaje "Hola mundo".  
 
 | Entrada | Proceso              | Salida     |
 | ------- | -------------------- | ---------- |
@@ -28,9 +28,9 @@
 ---
 ## Ejercicio 3
 
-> Entrada: Dos números de tipo double ingresados por el usuario. 
-> Proceso: Se suman los dos números sTotal = pNum + sNum. 
-> Salida: Se muestra la suma de los números. 
+> Entrada: Se ingresaran 2 numeros para sumarlos.  
+> Proceso: Se suman los dos números sTotal = pNum + sNum.  
+> Salida: Se muestra la suma de los números.  
 
 | Entrada (pNum) | Entrada (sNum) | Proceso (sTotal=pNum+sNum) | Salida: sTotal |
 | -------------- | -------------- | -------------------------- | -------------- |
@@ -42,9 +42,9 @@
 ---
 ## Ejercicio 4
 
-> Entrada: Nombre completo del usuario. 
-> Proceso: Se guarda el nombre en una variable tipo cadena. 
-> Salida: Se imprime el nombre completo del usuario.
+> Entrada: Se realizaran 3 maneras para ingresar caracteres en algoritmos C.  
+> Proceso: Se guarda el nombre en una variable tipo cadena.  
+> Salida: Se imprime el nombre completo del usuario.  
 
 | Entrada (nombre) | Proceso           | Salida                                  |
 | ---------------- | ----------------- | --------------------------------------- |
@@ -57,9 +57,9 @@
 ---
 ## Ejercicio 5
 
-> Entrada: Metros a convertir. 
-> Proceso: Conversión de metros a milímetros, centímetros y kilómetros: ml = mt*1000, cm = mt*100, km = mt/1000. 
-> Salida: Se muestran los valores convertidos.
+> Entrada: Nesecitamos programar un conversor de metros a milimetros, centimetros y kilometros.   
+> Proceso: Conversión de metros a milímetros, centímetros y kilómetros: ml = mt*1000, cm = mt*100, km = mt/1000.   
+> Salida: Se muestran los valores convertidos.  
 
 | Entrada (mt) | Proceso                   | Salida (ml, cm, km, mt) |
 | ------------ | ------------------------- | ----------------------- |
@@ -71,9 +71,9 @@
 [Practica 5](./ejercicio1.c)
 ---
 ## Ejercicio 6
-> Entrada: Velocidad inicial vO, velocidad final vF, tiempo t. 
-> Proceso: Se calcula la aceleración: a = (vF - vO)/t. 
-> Salida: Se imprime el valor de la aceleración.
+> Entrada: Se requiere sacar la aceleracion.  
+> Proceso: Se calcula la aceleración: a = (vF - vO)/t.  
+> Salida: Se imprime el valor de la aceleración.  
 
 | Entrada (vO) | Entrada (vF) | Entrada (t) | Proceso (a=(vF-vO)/t) | Salida: a |
 | ------------ | ------------ | ----------- | --------------------- | --------- |
@@ -86,9 +86,9 @@
 ---
 ## Ejercicio 7
 
-> Entrada: Coordenadas de dos puntos (x1, y1) y (x2, y2). 
-> Proceso: Se calcula la distancia entre los puntos: distancia = sqrt((x2-x1)^2 + (y2-y1)^2). 
-> Salida: Se muestra la distancia entre los puntos.
+> Entrada: Coordenadas de dos puntos (x1, y1) y (x2, y2).   
+> Proceso: Se calcula la distancia entre los puntos: distancia = sqrt((x2-x1)^2 + (y2-y1)^2).   
+> Salida: Se muestra la distancia entre los puntos.  
 
 | Entrada (x1,y1) | Entrada (x2,y2) | Proceso     | Salida: distancia |
 | --------------- | --------------- | ----------- | ----------------- |
@@ -101,10 +101,10 @@
 ---
 ## Ejercicio 8
 
-> Entrada: Número decimal nC. 
-> Proceso: Se separa la parte entera pE = (int)nC y decimal pd = nC - pE. 
-> Salida: Se muestran la parte entera y decimal.
-
+> Entrada: Se necesita separar el entero y el decimal de un numero.   
+> Proceso: Se separa la parte entera pE = (int)nC y decimal pd = nC - pE.   
+> Salida: Se muestran la parte entera y decimal.  
+ 
 | Entrada (nC) | Proceso (pE=int(nC), pd=nC-pE) | Salida (pE, pd) |
 | ------------ | ------------------------------ | --------------- |
 | 5.75         | 5, 5.75-5                      | 5, 0.75         |
@@ -115,9 +115,9 @@
 [Practica 8](./ejercicio4.c)
 ---
 ## Ejercicio 9
-> Entrada: Número entero pNum. 
-> Proceso: Se calcula el doble y el triple: doble = pNum*2, triple = pNum*3. 
-> Salida: Se muestran el doble y el triple del número.
+> Entrada: Se necesita sacar el doble y el triple de un numero.  
+> Proceso: Se calcula el doble y el triple: doble = pNum*2, triple = pNum*3.   
+> Salida: Se muestran el doble y el triple del número.  
 
 | Entrada (pNum) | Proceso        | Salida (doble, triple) |
 | -------------- | -------------- | ---------------------- |
@@ -130,9 +130,9 @@
 ---
 ## Ejercicio 10
 
-> Entrada: Pies pie a convertir.  
-> Proceso: Conversiones: yr=pie/3, pg=pie*12, cm=pg*2.54, mt=cm/100. 
-> Salida: Se muestran yardas, pulgadas, centímetros y metros.
+> Entrada: Hay que convertir pie a yardas, pulgadas, centimetros y metros.  
+> Proceso: Conversiones: yr=pie/3, pg=pie*12, cm=pg*2.54, mt=cm/100.  
+> Salida: Se muestran yardas, pulgadas, centímetros y metros.  
 
 | Entrada (pie) | Proceso                               | Salida (yr, pg, cm, mt)   |
 | ------------- | ------------------------------------- | ------------------------- |
@@ -145,9 +145,9 @@
 ---
 ## Ejercicio 11
 
-> Entrada: Calificaciones c1, c2 y nota de laboratorio nL. 
-> Proceso: Se calcula la nota mínima necesaria en c3: c3 = 3*(nF-0.3*nL)/0.7-(c1+c2). 
-> Salida: Se muestra la nota mínima necesaria o se indica que ya cumple el promedio.
+> Entrada: Hay que calcular c3 para sacar (60/100) en la nota final.  
+> Proceso: Se calcula la nota mínima necesaria en c3: c3 = 3*(nF-0.3*nL)/0.7-(c1+c2).   
+> Salida: Se muestra la nota mínima necesaria o se indica que ya cumple el promedio.  
   
 | Entrada (c1) | Entrada (c2) | Entrada (nL) | Proceso (c3)                | Salida    |
 | ------------ | ------------ | ------------ | --------------------------- | --------- |
