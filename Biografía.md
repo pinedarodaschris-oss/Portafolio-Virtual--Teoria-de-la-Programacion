@@ -9,4 +9,4 @@
 
 [⬅️ Atras](./Unidad1.md)
 
-[⬅️ Regresar al índice](./indice.md)
+[⬅️ Regresar al índice](./Indice.md)
