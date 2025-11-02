@@ -1,7 +1,11 @@
 # Ejercicios
+---
+## Ejercicio 1
 
 [Practica 1](./Actividades en C/miPrimerPrograma.c)
 ---
+## Ejercicio 2
+
 [Practica 2](./segundoPrograma.c)
 ---
 [Practica 3](./sumaDosNumeros.c)
