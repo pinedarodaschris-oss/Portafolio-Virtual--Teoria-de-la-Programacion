@@ -24,7 +24,7 @@ Al finalizar esta unidad, el estudiante será capaz de:
 📘 [**Ejercicios de Práctica**](./EjerciciosDePractica.md)  
 > Archivos y programas en C para reforzar los temas de la unidad.
 
-📂 [**Actividades del EVA**](https://drive.google.com/drive/folders/18RMv6LhEWZ5VhnlePUVpWW-bmKTvGSbW?usp=sharing)  
+📂 [**Actividades del EVA**](./ActividadesEvaUnidad1.md)  
 > Carpeta con actividades asignadas en el entorno virtual de aprendizaje.
 
 ⚠️ [**Dificultades**](./Principales_dificultades.md)  
