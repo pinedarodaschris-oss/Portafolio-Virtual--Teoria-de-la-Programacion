@@ -11,6 +11,7 @@
 
 #### 🔧 Unidad 2 — Herramientas y Representación de Algoritmos
 > Diagramas de flujo, pseudocódigo y estructura lógica.
+[Ir a la Unidad 2](./Unidad2.md)
 
 #### 🧠 Unidad 3 — Programación Práctica y Resolución de Problemas
 > Desarrollo de ejercicios aplicados en diferentes lenguajes.
@@ -24,6 +25,7 @@ Reflexiones finales sobre el aprendizaje adquirido durante el curso.
 
 ### 📖 Referencias
 Fuentes utilizadas para la elaboración de los contenidos del portafolio.
+[Ir a las biografias](./Biografía.md)
 
 ---
 
