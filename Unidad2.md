@@ -12,7 +12,7 @@
 ## 🔁 Estructuras Repetitivas  
 > Tipos y ejercicios desarrollados en diagramas de flujo y lenguaje **C**.
 
-[Ejercicios Condicionales](./EstructurasRepetitivas.md)
+[Estructuras Repetitivas](./EstructurasRepetitivas.md)
 
 ---
 
