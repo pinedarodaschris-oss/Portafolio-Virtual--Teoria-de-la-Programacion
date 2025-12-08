@@ -35,3 +35,9 @@
 
 [Ejercicio 7](./Unidad2/pruebaUni2.c)
 
+---
+---
+### 🔙 Navegación
+[⬅️ Atras](./EjerciciosUnidad2.md)
+
+[⬅️ Regresar al índice](./Indice.md)
