@@ -33,8 +33,6 @@ Al finalizar esta unidad, el estudiante será capaz de:
 📝 [**Reflexión Crítica**](./RefrecionCritica.md)  
 > Reflexión sobre el aporte de la unidad a mi estudio.
 
-✉️ [**Biografia**](./Biografía.md)
->Biografias utilizadas
 ---
 
 ### 🔙 Navegación
