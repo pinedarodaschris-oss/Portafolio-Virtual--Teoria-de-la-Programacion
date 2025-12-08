@@ -1,4 +1,4 @@
-# Estructuras condiciobnales
+# Estructuras condicionales
 > Las estructuras condicionales permiten que un programa tome decisiones y ejecute un bloque de código u otro, basándose en si una condición lógica es verdadera (True) o falsa (False).
 
 ## Tipos de condicionales
