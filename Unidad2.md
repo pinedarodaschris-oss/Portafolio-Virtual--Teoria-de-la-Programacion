@@ -5,15 +5,21 @@
 ## 🔀 Estructuras Condicionales  
 > Tipos y ejercicios desarrollados en diagramas de flujo y lenguaje **C**.
 
+[Ejercicios Condicionales](./EjerciciosConUnidad2.md)
+
 ---
 
 ## 🔁 Estructuras Repetitivas  
 > Tipos y ejercicios desarrollados en diagramas de flujo y lenguaje **C**.
 
+[Ejercicios Condicionales](./EjerciciosRepUnidad2.md)
+
 ---
 
 ## 🧪 Ejercicio Integrador  
 > Uso combinado de estructuras **condicionales y repetitivas** en **Java o Python**.
+
+[Ejercicio combinado de las estructuras condicionales y repetitivas](./EjercicioUnidad2.md)
 
 ### 📌 Descripción del Problema  
 Explicación clara del problema que se va a resolver.
