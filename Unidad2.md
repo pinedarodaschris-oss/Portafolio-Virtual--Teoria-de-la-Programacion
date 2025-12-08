@@ -35,18 +35,20 @@ Pruebas realizadas y resultados obtenidos.
 
 ---
 
-## ⚠️ Principales Dificultades  
+## ⚠️ [Principales Dificultades](./Principales_dificultades.md)  
 Problemas encontrados durante la aplicación de los contenidos.
 
 ---
 
-## 🧠 Reflexión Crítica  
+## 🧠 [Reflexión Crítica](./RefrecionCritica.md)
 Análisis personal sobre los aprendizajes adquiridos en la unidad.
 
 ---
 
-## 📥 Tareas Entregadas  
+## 📥 [Tareas Entregadas](./EvaUnidad2.md)
 Listado de actividades realizadas y entregadas.
+
+
 
 --- 
 ### 🔙 Navegación
