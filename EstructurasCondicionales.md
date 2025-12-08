@@ -21,7 +21,7 @@
 
 ## Ejercicios
 
-[⬅️ IR a los ejercicios](./EjerciciosUnidad2.md)
+[⬅️ IR a los ejercicios](./EstructurasConUnidad2.md)
 
 ---
 ---
