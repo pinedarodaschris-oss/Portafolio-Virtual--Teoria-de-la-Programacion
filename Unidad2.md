@@ -5,7 +5,7 @@
 ## 🔀 Estructuras Condicionales  
 > Tipos y ejercicios desarrollados en diagramas de flujo y lenguaje **C**.
 
-[Ejercicios Condicionales](./EstructurasCondicionales.md)
+[Estructuras Condicionales](./EstructurasCondicionales.md)
 
 ---
 
