@@ -19,7 +19,7 @@
 ## 🧪 Ejercicio Integrador  
 > Uso combinado de estructuras **condicionales y repetitivas** en **Java o Python**.
 
-[Ejercicio combinado de las estructuras condicionales y repetitivas](./EjercicioUnidad2.md)
+[Ejercicio combinado de las estructuras condicionales y repetitivas](./EjerciciosUnidad2.md)
 
 ### 📌 Descripción del Problema  
 Explicación clara del problema que se va a resolver.
