@@ -39,6 +39,6 @@
 ---
 ---
 ### 🔙 Navegación
-[⬅️ Atras](./EstructurasCondicionales.md)
+[⬅️ Atras](./EstructurasRepetitivas.md)
 
 [⬅️ Regresar al índice](./Indice.md)
