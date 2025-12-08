@@ -1,6 +1,6 @@
 ## Ejercicio 1
 > 
-[Ejercicio 1](./estructurasRepetitivas.c)
+[Ejercicio 1](./Unidad2/estructurasRepetitivas.c)
 
 ---
 
