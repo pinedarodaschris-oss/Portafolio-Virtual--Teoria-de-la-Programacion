@@ -25,6 +25,7 @@ Reflexiones finales sobre el aprendizaje adquirido durante el curso.
 
 ### 📖 Referencias
 Fuentes utilizadas para la elaboración de los contenidos del portafolio.
+
 [Ir a las biografias](./Biografía.md)
 
 ---
@@ -36,3 +37,6 @@ Explicación sobre cómo se integró IA durante el aprendizaje:
 - Generación de ejemplos y documentación
 
 ---
+### 🔙 Navegación  
+🏠 [Volver a la caratura](./Caratura.md)
+
