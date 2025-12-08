@@ -38,5 +38,5 @@ Explicación sobre cómo se integró IA durante el aprendizaje:
 
 ---
 ### 🔙 Navegación  
-🏠 [Volver a la caratura](./Caratura.md)
+🏠 [Volver a la caratura](./Caratula.md)
 
