@@ -39,6 +39,6 @@
 ---
 ---
 ### 🔙 Navegación
-[⬅️ Atras](./EjerciciosUnidad2.md)
+[⬅️ Atras](./EstructurasCondicionales.md)
 
 [⬅️ Regresar al índice](./Indice.md)
