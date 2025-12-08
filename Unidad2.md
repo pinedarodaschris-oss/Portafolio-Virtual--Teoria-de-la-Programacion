@@ -5,14 +5,14 @@
 ## 🔀 Estructuras Condicionales  
 > Tipos y ejercicios desarrollados en diagramas de flujo y lenguaje **C**.
 
-[Ejercicios Condicionales](./EjerciciosConUnidad2.md)
+[Ejercicios Condicionales](./EstructurasConUnidad2.md)
 
 ---
 
 ## 🔁 Estructuras Repetitivas  
 > Tipos y ejercicios desarrollados en diagramas de flujo y lenguaje **C**.
 
-[Ejercicios Condicionales](./EjerciciosRepUnidad2.md)
+[Ejercicios Condicionales](./EstructurasRepUnidad2.md)
 
 ---
 
