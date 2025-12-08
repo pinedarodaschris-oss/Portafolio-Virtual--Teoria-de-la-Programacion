@@ -8,7 +8,9 @@
 ---
 Unidad 2
 > Errores de desplazamiento por uno, el ciclo se ejecuta una vez de más o una vez de menos, por errores en la condición de inicio.
+
 > Bucle Infinito: el programa se ejecute indefinidamente, bloqueándose o consumiendo todos los recursos del sistema.
+
 > Ineficiencia Algorítmica: Usar un ciclo dentro de otro ciclo sin que tenga utilidad.
 
 ---
