@@ -3,7 +3,7 @@
 #### Tarea 1
 > Diferencias entre estructuas condicionales.
 
-[AA1](./AA/DiferenciasEntreLosTiposDeEstructurasCondicionales-AA1-Uni2.pdf.pdf)
+[AA1](./AA/DiferenciasEntreLosTiposDeEstructurasCondicionales-AA1-Uni2.pdf)
 
 #### Tarea 2
 > Cuadro comparativo entre las estructuras repetitivas, con un ejercicio de OmegaUp.
