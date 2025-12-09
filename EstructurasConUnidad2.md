@@ -44,6 +44,6 @@ indicará que el número está dentro del rango; si no, mostrará que el número
 
 ---
 ### 🔙 Navegación
-[⬅️ Atras](./EjerciciosUnidad2.md)
+[⬅️ Atras](./EstructurasCondicionales.md)
 
 [⬅️ Regresar al índice](./Indice.md)
