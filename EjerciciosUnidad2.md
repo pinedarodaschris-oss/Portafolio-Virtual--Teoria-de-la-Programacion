@@ -43,6 +43,10 @@
 | Manejo de Errores (Entrada)   | No incluido nativamente en el ejemplo  | `if (scanner.hasNextInt())` para validar entrada numérica.                                      | `try { ... } catch (ValueError) { ... }`                                                      |
 | Uso de Apuntadores (`&`)      | Uso de `&` para obtener dirección      | No se utiliza; Java gestiona referencias automáticamente.                                      | No se utiliza.                                                                                 |
 
+## Diagrama de flujo
+<img width="1402" height="1022" alt="image" src="https://github.com/user-attachments/assets/192c0d67-2b4e-4ac9-a626-68dabb65ec23" />
+
+
 ---
 ### 🔙 Navegación
 
