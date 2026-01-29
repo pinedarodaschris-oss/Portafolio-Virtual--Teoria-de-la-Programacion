@@ -9,7 +9,7 @@
 #### Actividad 1
 > Desarrollar un programa que calcule la nota final de un estudiante, aplicando funciones y procedimientos.
 
-[APE1](.Unidad3/APEs/TeoríaDeLaProgramación-FormatoReporteTécnicoAPE(estudiante).docx.pdf)
+[APE1](Unidad3/APEs/TeoríaDeLaProgramación-FormatoReporteTécnicoAPE(estudiante).docx.pdf)
 
 #### Actidad 2
 > Mejora del codigo realizado de manera online en Replift.
