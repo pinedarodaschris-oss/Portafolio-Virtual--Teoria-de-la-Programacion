@@ -3,18 +3,23 @@
 ---
 
 ## 🔀 Modularidad
-> Tipos y ejercicios desarrollados en diagramas de flujo y lenguaje **C**.
+La modularidad es una técnica de diseño que consiste en dividir un programa en partes más pequeñas y separadas, llamadas módulos o funciones. Es el principio de "divide y vencerás".
+> Ventajas.
 
+Reutilización: Si escribes un módulo para calcular el IVA, puedes usarlo en 20 partes diferentes del programa sin escribirlo de nuevo.
+
+Fácil depuración: Si hay un error en el cálculo, ya sabes exactamente en qué módulo buscar, en lugar de revisar todo el programa.
+
+Legibilidad: El código se lee como un libro con capítulos, lo que facilita que otros programadores lo entiendan.
+
+---
 
 
 ---
 
 ## 🔁 Arreglos
-> Tipos y ejercicios desarrollados en diagramas de flujo y lenguaje **C**.
+> Un arreglo es una estructura de datos que permite almacenar múltiples valores del mismo tipo bajo un solo nombre. En lugar de crear 10 variables para 10 números, creas un solo arreglo con 10 espacios
 
-
-
----
 
 ### 📌 Unidimencional
 Es la estructura de datos más simple. Es una colección lineal de elementos. Imagina que es una cuerda con nudos, donde cada nudo guarda una información.
@@ -35,6 +40,7 @@ Aquí añadimos una dimensión extra. Ya no es solo una línea, ahora tienes anc
 Un arreglo 3D es, básicamente, una colección de matrices. Imagina que tienes un cuaderno: cada página es una matriz (2D), y el cuaderno completo, al tener muchas páginas una detrás de otra, es un arreglo 3D.
 <img width="987" height="731" alt="image" src="https://github.com/user-attachments/assets/17875e64-a8a3-4285-b40b-bf1c1fdf0e21" />
 > Terminar
+<img width="896" height="252" alt="image" src="https://github.com/user-attachments/assets/b08e7938-48ef-49b6-8e8e-ffb96c5837e0" />
 
 
 ### 💻 Ejercicios Unidad 3  
