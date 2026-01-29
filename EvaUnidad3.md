@@ -19,6 +19,6 @@
 ---
 ### 🔙 Navegación
 
-[⬅️ Atras](./EjerciciosDePractica.md)
+[⬅️ Atras](./Unidad3.md)
 
 [⬅️ Regresar al índice](./Indice.md)
