@@ -13,6 +13,25 @@ Fácil depuración: Si hay un error en el cálculo, ya sabes exactamente en qué
 Legibilidad: El código se lee como un libro con capítulos, lo que facilita que otros programadores lo entiendan.
 
 ---
+## Paso por Valor
+Cuando pasas una variable por valor, la función recibe una copia exacta del dato. Lo que pase dentro de la función se queda en la función.
+La computadora crea un nuevo espacio en la memoria para esa copia.
+El dato original fuera de la función permanece intacto.
+Se suele usar con tipos de datos simples como números (integers) o caracteres.
+
+## Paso por Referencia
+Cuando pasas una variable por referencia, no estás enviando el dato en sí, sino la dirección de memoria donde vive ese dato.
+La función no crea una copia; trabaja directamente sobre el dato original.
+Si la función cambia el valor, el dato original cambia para siempre.
+Se usa con estructuras de datos grandes, como Arreglos o Matrices, para no gastar memoria creando copias innecesarias.
+
+Ejemplo: Si me das la llave de tu casa y yo pinto la puerta de color verde, cuando tú llegues a tu casa, la puerta será verde. No hubo copia, solo una referencia al lugar real.
+
+### Ejemplo comparativo
+<img width="712" height="476" alt="image" src="https://github.com/user-attachments/assets/d5d83f19-2bc1-4c12-8a24-8c1c9760ff42" />
+
+> Terminar
+<img width="805" height="71" alt="image" src="https://github.com/user-attachments/assets/256c5206-58d5-48ca-b717-48b50b6a982b" />
 
 
 ---
