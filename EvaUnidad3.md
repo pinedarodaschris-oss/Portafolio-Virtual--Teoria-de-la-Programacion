@@ -15,3 +15,10 @@
 > Mejora del codigo realizado de manera online en Replift.
 
 [APE2](Unidad3/APEs/APE2.c)
+
+---
+### 🔙 Navegación
+
+[⬅️ Atras](./EjerciciosDePractica.md)
+
+[⬅️ Regresar al índice](./Indice.md)
